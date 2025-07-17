@@ -1,0 +1,5 @@
+go mod init go-wire
+go mod tidy
+go get github.com/google/wire/cmd/wire
+go run github.com/google/wire/cmd/wire
+put in the wire.go //+build wireinject
