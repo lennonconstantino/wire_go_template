@@ -1,0 +1,1 @@
+# wire_go_template
